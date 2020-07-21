@@ -1,2 +1,2 @@
-# calculadora
-As quatro operações em C
+# As quatro operações em C
+Adição, subtração, multiplicação e divisão
